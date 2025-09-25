@@ -35,6 +35,6 @@ The dashboard helps the bank answer:
 
 | Risk Factors | Fairness Policies |
 |--------------|------------------|
-| ![Page3](Screenshots/Page3_RiskFactors.png) | ![Page4](Screenshots/Page4_FairnessPolicies.png) |
+| ![Page3](Screenshots/RiskFactor.png) | ![Page4](Screenshots/Fairness.png) |
 
 Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNGNlNzBmY2YtOGI0OS00N2M0LTg0ZjItNTU3NjBiZDgxZDJkIiwidCI6IjdhNmRlNDA0LWI0YzEtNGU0OC1iNGQ3LWQzYTk3M2ZjOWQ4ZiIsImMiOjEwfQ%3D%3D
